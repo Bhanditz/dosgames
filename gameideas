@@ -5,3 +5,4 @@
 - A character creator. Face, body, multiple lod/distance, clothing, for use in generating characters for run and jump games. Optionally, have multiple layers/constraints - eg generatate avatar, familiar, astral form as well, with some constraints set by character creation.
 - Spiders and rats, astral exploration
 - A vignette about a giant shrine, with four obvious and one hidden subshrine. Overworld is the giant shrine, side scrolling is the sub shrines.
+- An exploration/escape game set in a claustrophobic factory world. Smokestacks, pipes, tunnels, vents, oil, fires, steam, smoke, smog, and *things* waiting in the dark. 2d side scroller with many layers of background. The goal is to get to the very top (the 'outside', where for the first time you can see the Sun) or the very bottom (either/or).
